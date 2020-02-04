@@ -48,7 +48,7 @@
             function displayMovieInfo() {
 
                 var movie = $(this).attr("data-name");
-                var querURL = "http://www.omdbapi.com/?i=" + movie + "tt3896198&apikey=80df9288";
+                var querURL = "http://www.omdbapi.com/?t="+movie+"&apikey=trilogy";
 
                 // This creates an AJAX call for the specific movie button being clicked
                 $ajax({
