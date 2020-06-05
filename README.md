@@ -1,4 +1,4 @@
-## Movie Search
+## Movie Search - UCSD Ext. Full Stack Boot Camp Activity
 This is a simple website that explores the use of APIs. This was an activity that we worked on in class that I wanted to redo and share with friends so that they can use it to get information about their favorite movies, movies they may be interested in, or simply to use for trivia night.
 
 ## Version/Dev Notes
